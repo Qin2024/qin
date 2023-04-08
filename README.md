@@ -1,2 +1,0 @@
-# qin
-qin's reposity
